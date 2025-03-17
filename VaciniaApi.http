@@ -1,0 +1,6 @@
+@VaciniaApi_HostAddress = http://localhost:5108
+
+GET {{VaciniaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
